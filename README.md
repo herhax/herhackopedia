@@ -11,4 +11,4 @@ Terms are segmented by episode in mark down files (.md) and listed in order of a
 Please star and submit a pull request to our repository for any corrections, additional terms you want us to define, further definitions authored by you (will be given credit), or general edits that you want to see! Not all of our episodes are categorized yet, as this is a WIP (work in progress). 
 
 ## Episode Glossory
-### 1. [Branding Yourself: Hack Your Career Without Being a Hack](BrandingYourself_Hack_Your_Career_Without_Being_a_Hack.md)
+### 7. [Branding Yourself: Hack Your Career Without Being a Hack](BrandingYourself_Hack_Your_Career_Without_Being_a_Hack.md)
