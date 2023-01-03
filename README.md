@@ -10,5 +10,6 @@ Terms are segmented by episode in mark down files (.md) and listed in order of a
 ## How you can contribute <3:
 Please star and submit a pull request to our repository for any corrections, additional terms you want us to define, further definitions authored by you (will be given credit), or general edits that you want to see! Not all of our episodes are categorized yet, as this is a WIP (work in progress). 
 
-## Episode Glossory
+## Episode Glossary
 ### 7. [Branding Yourself: Hack Your Career Without Being a Hack](BrandingYourself_Hack_Your_Career_Without_Being_a_Hack.md)
+### 5. [Retaining Women in Cybersecurity with Susie Heilman - Expert Interview](Episode5-RetainingWomeninCybersecurity)
